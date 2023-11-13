@@ -1,0 +1,185 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+	background-size: cover;
+}
+
+.header
+{
+	color: #f1ecec;
+	font-family: 'Times New Roman', Times, serif;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: linear-gradient(to right top, #0aaa9d, #006494);float: none;border-radius: 15px;
+color: white;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+	background-color: aliceblue;
+	color: black;
+
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 30px; float: right;
+	background-color: black;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color:white;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:white;
+}
+
+h1
+{
+font-size: 60px;
+}
+h2
+{
+font-size: 40px;
+}
+#imsg
+{
+
+	height: 200px;
+	width: 700px;
+	background-color: rgb(230, 240, 238);
+}
+
+.frase
+{
+
+	color:rgb(241, 236, 236);
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ #send
+ {
+	width: 300px;
+	height: 100px;
+	color:rgb(243, 233, 233);
+	font-size: 30px;
+	border: black;
+	border-style: double;
+	border-width: 3px;
+	background-color: #d31212;
+	border-radius: 20px;
+ }
+
+ #start
+ {
+	width: 300px;
+	height: 100px;
+	color:rgb(243, 233, 233);
+	font-size: 30px;
+	border: black;
+	border-style: double;
+	border-width: 3px;
+	background-color: #21c00c;
+	border-radius: 20px;
+ }
+
+
+
+
+ #texto
+ {
+height: 300px;
+width: 500px;
+background-color: rgb(222, 228, 226);
+font-size: 20px;
+border-color: #e9ec08;
+border: 5px;
+
+ }
+ h3
+ {
+	color: aliceblue;
+ }
+
+ #finall
+ {
+	width: 270px;
+	height: 300px;
+ }
+
+#audio
+{
+width: 200px;
+height: 200px;
+margin-right: 10px;
+padding-right: 10px;
+background-color: #d31212;
+color: white;
+font-size: 50px;
+
+}
+ 
